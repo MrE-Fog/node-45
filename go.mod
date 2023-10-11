@@ -62,10 +62,10 @@ require (
 	github.com/vcraescu/go-paginator v0.0.0-20200304054438-86d84f27c0b3
 	github.com/xtaci/kcp-go/v5 v5.6.1
 	go.etcd.io/bbolt v1.3.5
-	golang.org/x/crypto v0.9.0
-	golang.org/x/net v0.10.0
+	golang.org/x/crypto v0.14.0
+	golang.org/x/net v0.17.0
 	golang.org/x/oauth2 v0.5.0
-	golang.org/x/sys v0.8.0
+	golang.org/x/sys v0.13.0
 	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
 	golang.zx2c4.com/wireguard v0.0.0-20230223181233-21636207a675
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20211230205640-daad0b7ba671
@@ -242,7 +242,7 @@ require (
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/tools v0.7.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
