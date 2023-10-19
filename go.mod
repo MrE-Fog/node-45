@@ -46,7 +46,7 @@ require (
 	github.com/mysteriumnetwork/metrics v0.0.19
 	github.com/mysteriumnetwork/payments v1.0.1-0.20220919130729-aec4a4ae5b06
 	github.com/mysteriumnetwork/terms v0.0.53
-	github.com/nats-io/nats.go v1.11.1-0.20210623165838-4b75fc59ae30
+	github.com/nats-io/nats.go v1.28.0
 	github.com/oleksandr/bonjour v0.0.0-20160508152359-5dcf00d8b228
 	github.com/oschwald/geoip2-golang v1.1.0
 	github.com/pion/stun v0.3.5
@@ -62,11 +62,11 @@ require (
 	github.com/vcraescu/go-paginator v0.0.0-20200304054438-86d84f27c0b3
 	github.com/xtaci/kcp-go/v5 v5.6.1
 	go.etcd.io/bbolt v1.3.5
-	golang.org/x/crypto v0.9.0
+	golang.org/x/crypto v0.12.0
 	golang.org/x/net v0.10.0
 	golang.org/x/oauth2 v0.5.0
-	golang.org/x/sys v0.8.0
-	golang.org/x/time v0.0.0-20210220033141-f8bda1e9f3ba
+	golang.org/x/sys v0.11.0
+	golang.org/x/time v0.3.0
 	golang.zx2c4.com/wireguard v0.0.0-20230223181233-21636207a675
 	golang.zx2c4.com/wireguard/wgctrl v0.0.0-20211230205640-daad0b7ba671
 	golang.zx2c4.com/wireguard/windows v0.5.3
@@ -147,7 +147,7 @@ require (
 	github.com/josharian/native v0.0.0-20200817173448-b6b71def0850 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/kevinburke/ssh_config v1.1.0 // indirect
-	github.com/klauspost/compress v1.16.4 // indirect
+	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.4 // indirect
 	github.com/klauspost/pgzip v1.2.4 // indirect
@@ -190,8 +190,8 @@ require (
 	github.com/multiformats/go-multihash v0.2.1 // indirect
 	github.com/multiformats/go-multistream v0.4.1 // indirect
 	github.com/multiformats/go-varint v0.0.7 // indirect
-	github.com/nats-io/nats-server/v2 v2.3.2 // indirect
-	github.com/nats-io/nkeys v0.3.0 // indirect
+	github.com/nats-io/nats-server/v2 v2.9.23 // indirect
+	github.com/nats-io/nkeys v0.4.4 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/onsi/ginkgo/v2 v2.9.2 // indirect
@@ -242,7 +242,7 @@ require (
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/mod v0.10.0 // indirect
 	golang.org/x/sync v0.1.0 // indirect
-	golang.org/x/text v0.9.0 // indirect
+	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.7.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
